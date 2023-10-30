@@ -1,0 +1,17 @@
+/* Edge-Frfox */
+@import url("icons/icons.css");
+@import url("toolbar/tabbar.css");
+@import url("toolbar/navbar.css");
+@import url("toolbar/personalbar.css");
+@import url("toolbar/findbar.css");
+@import url("toolbar/urlbar.css");
+@import url("global/colors.css");
+@import url("global/popup.css");
+@import url("global/tweaks.css");
+@import url("global/browser.css");
+
+/* import custom stylesheet instead of modifying Edge-Frfox theme files */
+@import url("custom.css");
+
+#_446900e4-71c2-419f-a6a7-df9c091e268b_-menuitem-_root, #firefox_tampermonkey_net-menuitem-_root, #_036a55b4-5e72-4d05-a06c-cba2dfcc134a_-menuitem-_translate-web-page
+{display: none !important;}
